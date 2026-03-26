@@ -1,27 +1,24 @@
-# AI110
+# AI110 — CodePath AI110 Course Repository
 
-Course repository for AI110, organized by weekly thinkers and projects.
+Course repository for CodePath AI110, organized by weekly modules.
 
-## Structure
+## Repository Structure
 
-- **week1/** — Week 1 materials
-- **week2/** — Week 2 materials
-  - `bytebites_tinker_activity/` — ByteBites project: a Python application with unit tests and design documentation
+This repo contains coursework that doesn't have its own standalone repository. Fork-based assignments are linked below.
 
-## Setup
+### Week 3 — ByteBites Tinker Activity (in this repo)
 
+A Python OOP backend for a campus food ordering app. Includes UML design docs, 4 model classes, and pytest test suite (6/6 passing).
 ```bash
-# Clone the repository
-git clone https://github.com/zongyang078/AI110.git
-cd AI110
-
-# Install dependencies (if needed)
-pip install pytest
+cd week3/bytebites_tinker_activity
+python3 -m pytest test_bytebites.py -v
 ```
 
-## Running Tests
+### Other Assignments (separate repos)
 
-```bash
-cd week2/bytebites_tinker_activity
-pytest
-```
+| Week | Module | Project | Repo |
+|------|--------|---------|------|
+| 1 | Module 1 Tinker | PlaylistChaos | [ai110-module1tinker-playlistchaos-starter](https://github.com/zongyang078/ai110-module1tinker-playlistchaos-starter) |
+| 2 | Module 1 Show | Game Glitch Investigator | [ai110-module1show-gameglitchinvestigator-starter](https://github.com/zongyang078/ai110-module1show-gameglitchinvestigator-starter) |
+| 4 | Module 2 Show | PawPal | [ai110-module2show-pawpal-starter](https://github.com/zongyang078/ai110-module2show-pawpal-starter) |
+| 5 | Module 3 Tinker | The Mood Machine | [ai110-module3tinker-themoodmachine-starter](https://github.com/zongyang078/ai110-module3tinker-themoodmachine-starter) |
