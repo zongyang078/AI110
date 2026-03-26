@@ -1,3 +1,12 @@
 .DS_Store
 __pycache__/
 .pytest_cache/
+
+# Fork projects (each has its own repo)
+week1/ai110-module1tinker-playlistchaos-starter/
+week2/ai110-module1show-gameglitchinvestigator-starter/
+week4/ai110-module2show-pawpal-starter/
+week5/ai110-module3tinker-themoodmachine-starter/
+
+# Virtual environments
+venv/
