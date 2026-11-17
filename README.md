@@ -12,11 +12,3 @@ Course repository for CodePath AI110, organized by weekly modules.
 | 6 | Module 3 Show | Music Recommender Simulation | [week6/](week6/ai110-module3show-musicrecommendersimulation-starter) |
 | 7 | Module 4 Tinker | DocuBot | [week7/](week7/ai110-module4tinker-docubot-starter) |
 | 9 | Module 5 Tinker | BugHound | [week9/](week9/ai110-module5tinker-bughound-starter) |
-
-### Week 3 — ByteBites
-
-A Python OOP backend for a campus food ordering app. Includes UML design docs, 4 model classes, and pytest test suite (6/6 passing).
-```bash
-cd week3/bytebites_tinker_activity
-python3 -m pytest test_bytebites.py -v
-```
