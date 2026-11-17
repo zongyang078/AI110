@@ -1,0 +1,31 @@
+{
+  "name": "Jordan",
+  "pets": [
+    {
+      "name": "Mochi",
+      "species": "dog",
+      "tasks": [
+        {
+          "description": "Morning walk",
+          "time": "08:00",
+          "duration_minutes": 20,
+          "priority": "high",
+          "frequency": "once",
+          "completed": false,
+          "due_date": "2026-03-27",
+          "pet_name": "Mochi"
+        },
+        {
+          "description": "Breakfast feeding",
+          "time": "09:00",
+          "duration_minutes": 20,
+          "priority": "high",
+          "frequency": "daily",
+          "completed": false,
+          "due_date": "2026-03-27",
+          "pet_name": "Mochi"
+        }
+      ]
+    }
+  ]
+}
